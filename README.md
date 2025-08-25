@@ -1,0 +1,1 @@
+NEXTJS WEATHER APP using NEXTJS, Typescript, TailwindCSS
